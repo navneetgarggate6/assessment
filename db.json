@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "token": "admin"
+    }
+  ],
+  "contacts": [
+    {
+      "first_name": "AContact test",
+      "last_name": "Update",
+      "email": "contact1@mail.com",
+      "phone": "1234567890",
+      "address": "contact 1 address",
+      "id": 1
+    }
+  ]
+}
